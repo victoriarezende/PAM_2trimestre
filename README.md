@@ -1,1 +1,0 @@
-# PAM_2trimestre
